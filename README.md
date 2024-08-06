@@ -1,5 +1,3 @@
-![explanations](maths-compressor.mp4)
-
 # High data storage, powered by maths.
 
 ***The theoric part is very easy, but the reality is different.***
@@ -29,6 +27,13 @@
 ---
 
 **STEP 4**
+
+
+
+
+https://github.com/user-attachments/assets/d97ced66-d370-45db-86d1-77073e741c08
+
+
 
 
 
